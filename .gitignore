@@ -3,7 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 .DS_Store
-./idea
+.idea/
+training/dataset/
+
 # C extensions
 *.so
 
